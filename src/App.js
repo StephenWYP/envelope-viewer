@@ -3,7 +3,7 @@ import './App.css';
 import React, { useState, useEffect } from "react";
 import EnvelopeCard from "./EnvelopeCard";
 
-// This is the main component of the app
+// This is the main component of the app..
 function App() {
 
   // Store all envelop data (fetched from "server")
